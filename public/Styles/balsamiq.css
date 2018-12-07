@@ -1,0 +1,21 @@
+.mapContainer{
+    height: 500px;
+}
+#map{
+    height: 405px;
+    width: 50%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+#searchInput{
+    width:50%;
+    align-content: center;
+}
+#clickme{
+    width:10%;
+    height:30px;
+}
+.jumbotron{
+    text-align:center;
+}
